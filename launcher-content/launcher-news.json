@@ -1,1 +1,10 @@
-
+{
+  "news": [
+    {
+      "date": "03/11/2026",
+      "title": "Welcome to RSCProject",
+      "message": "Stay tuned for the latest game updates, news and announcements.",
+      "image": "welcome.png"
+    }
+  ]
+}
